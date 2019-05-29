@@ -159,7 +159,7 @@ conda install pandas
 pip install pandas
 ```
 
-## Dependencies
+### Dependencies
 - [NumPy](http://www.numpy.org): 1.7.0 or higher
 - [python-dateutil](http://labix.org/python-dateutil): 1.5 or higher
 - [pytz](http://pytz.sourceforge.net)
